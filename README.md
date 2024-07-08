@@ -4,8 +4,8 @@
 
 ## **Contents**
 
-- **Part One**: Basic operations and manipulation
-- **Part Two**: Geometric transformation and spatial filtering
+- **Part One**: Basic Operations and Image Manipulation
+- **Part Two**: Geometric Transformation and Spatial Filtering
 
 ## **Getting Started**
 
